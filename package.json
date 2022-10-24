@@ -1,8 +1,8 @@
 {
   "name": "@pswind/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base ESlint config for TS projects",
-  "main": ".eslint.js",
+  "main": ".eslintrc.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pswind/eslint-config.git"
